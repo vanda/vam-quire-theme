@@ -1,0 +1,19 @@
+object_display_order:
+  - artist
+  - year
+  - dimensions
+  - medium
+  - location
+
+object_list:
+
+  - id: ""
+    title: ""
+    artist: ""
+    year: ""
+    medium: ""
+    dimensions: ""
+    location: ""
+    link:  ""
+    figure:
+      - id: ""
